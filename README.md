@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm Abhijit Gadekar 👋</h1>
 
-<!--
-**abhijit-gadekar/abhijit-gadekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    Welcome to my GitHub profile! I'm a VLSI and Semiconductors Enthusiast with a strong interest in Digital Circuit Design. 
+    Here, you’ll find projects, resources, and insights focused on Digital Circuits, VHDL and Verilog </p>
+  <p align="center"> My goal is to provide valuable content that helps others learn and grow in digital design. Let’s connect, collaborate, and advance our skills in the fascinating world of digital hardware together!</p>  
 
-Here are some ideas to get you started:
+<!-- Banner Image (Add your own banner image URL here) -->
+<p align="center">
+    <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cc1f068-5374-4fbf-865e-23f57b3a85dd_1792x1024.webp" alt="Banner" width="50%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Profile Views Badge -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abhijit-gadekar&color=brightgreen" alt="Profile views"/>
+</p>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit-gadekar&layout=compact&theme=dark" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhijit-gadekar&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+<!-- Technologies & Tools Section -->
+<h2 align="center">🛠 Technologies & Tools</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Verilog-02324E?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
+    <img src="https://img.shields.io/badge/VHDL-02324E?style=for-the-badge&logo=vhdl&logoColor=white" alt="VHDL"/>
+    <img src="https://img.shields.io/badge/FPGAs-0036E1?style=for-the-badge&logo=FPGA&logoColor=white" alt="FPGA"/>
+    <img src="https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=python&logoColor=yellow" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/VIVADO%20-1F93F3?style=for-the-badge&logo=Vivado&logoColor=white" alt="Xilinx Vivado"/>
+</p>
+
+<!-- Get in Touch Section -->
+<h2 align="center">🤝 Get in Touch</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/abhijitgadekar/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</p>
