@@ -1,12 +1,8 @@
 <h1 align="center">Hi there, I'm Abhijit Gadekar 👋</h1>
 
 <p align="center">
-    <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cc1f068-5374-4fbf-865e-23f57b3a85dd_1792x1024.webp" alt="Banner" width="30%">
-</p>
-
-<p align="center">
     Welcome to my GitHub profile! I'm a VLSI and Semiconductors Enthusiast with a strong interest in Digital Circuit Design. 
-    Here, you’ll find projects, resources, and insights focused on Digital Circuits, VHDL and Verilog </p>
+    Here, you’ll find projects, resources, and insights focused on Digital Circuits, VHDL, Verilog and SystemVerilog </p>
   <p align="center"> My goal is to provide valuable content that helps others learn and grow in digital design. Let’s connect, collaborate, and advance our skills in the fascinating world of digital hardware together!</p>  
 
 <p align="center">
