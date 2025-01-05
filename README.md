@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhijit-gadekar&theme=dark)
+    <img src="https://streak-stats.demolab.com/?user=abhijit-gadekar&theme=dark")
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
