@@ -9,6 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=abhijit-gadekar&color=brightgreen" alt="Profile views"/>
 </p>
 
+<p align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhijit-gadekar&theme=dark)
+</p>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit-gadekar&layout=compact&theme=dark" alt="Most Used Languages"/>
