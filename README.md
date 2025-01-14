@@ -9,9 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=abhijit-gadekar&color=brightgreen" alt="Profile views"/>
 </p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=abhijit-gadekar&theme=dark")
-</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
