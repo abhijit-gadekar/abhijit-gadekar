@@ -19,11 +19,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XYZ&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijitgadekar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=XYZ&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijitgadekar&show_icons=true&locale=en" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XYZ" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitgadekar" alt="GitHub Streak" />
 </div>
 
 ---
