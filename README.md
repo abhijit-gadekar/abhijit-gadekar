@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41a58584-4044-4d11-92a6-890d5bd51fa0">
+  <img src="https://github.com/user-attachments/assets/be15ded3-d395-4086-a1fd-a21d2740d95b">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhijit Gadekar</h1>
@@ -19,10 +19,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit-gadekar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijit-gadekar&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-gadekar" alt="GitHub Streak" />
 </div>
 
