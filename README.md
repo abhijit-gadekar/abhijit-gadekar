@@ -30,19 +30,13 @@ Digital IC Design | RTL Design | RTL to GDS | ASIC Design | FPGA | Physical Desi
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.vercel.app?user=abhijit-gadekar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=abhijit-gadekar&theme=default&hide_border=true" alt="abhijit-gadekar's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-gadekar&theme=github_dark" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&preferLogin=false">    <img  alt="abhijit-gadekar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/abhijit-gadekar?cardType=github&fontFamily=&preferLogin=false" />  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhijit-gadekar">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijit-gadekar&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhijit-gadekar&theme=github_dark"/>
-</p>
-<p align="center">
-</p>
-
-<p align="center">
-    ⭐ Thanks for visiting my profile! ⭐
-</p>
+---
